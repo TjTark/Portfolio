@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Do you kno de wae?
+![Image](https://i.imgflip.com/22i1a3.jpg)
 
 ### Jekyll Themes
 
