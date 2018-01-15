@@ -8,8 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Do you kno de wae?
 
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
 
